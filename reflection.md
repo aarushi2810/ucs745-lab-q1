@@ -70,3 +70,4 @@ Working through this exercise taught me several key ideas:
 6. **Push discipline matters.** Each branch should be pushed to the remote before merging, so teammates can review or pull-request the changes before they hit main. This is the foundation of workflows like GitHub Flow.
 
 Overall, this exercise gave me hands-on experience with one of the most important and sometimes intimidating parts of collaborative software development, and I now feel confident handling merge conflicts in a real team project.
+
