@@ -1,6 +1,6 @@
 def calculate(a, b):
     """Simple calculator function."""
-    return a + b
+    return a - b
 
 
 if __name__ == "__main__":
